@@ -6,8 +6,8 @@ From web development to data cleaning, I enjoy turning complex problems into sim
 🎓 Education
 Bachelor’s Degree in Computer Science
 Faculty of Computers and Artificial Intelligence
-[Your University Name]
-(Expected graduation: 2027)
+[ALEX NATIONAL UNIVERSITY {ANU}]
+(Expected graduation: 2028)
 
 🛠️ Skills
 Programming:
